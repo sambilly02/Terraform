@@ -1,1 +1,4 @@
-variable "client_secret" {}
+variable "client_secret" {
+      type = string
+
+}
